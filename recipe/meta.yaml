@@ -25,6 +25,7 @@ requirements:
     - opentelemetry-sdk
     - openinference-semantic-conventions
     - typing-extensions
+    - wrapt >=1.14.0,<2
 
 test:
   imports:
