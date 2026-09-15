@@ -1,5 +1,5 @@
 {% set name = "openinference-instrumentation" %}
-{% set version = "0.1.62" %}
+{% set version = "0.1.64" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/openinference_instrumentation-{{ version }}.tar.gz
-  sha256: 37e3313c5927087c7cea3679cf2301846064ad3c5b4cdd74c13c51fc23c14210
+  sha256: 014ac7f878ef2e5f70df794bf65ea5bc40a281c3c04b64760123b7d3165db287
 
 build:
   noarch: python
