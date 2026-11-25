@@ -190,6 +190,7 @@ Feedstock Maintainers
 * [@RogerHYang](https://github.com/RogerHYang/)
 * [@anticorrelator](https://github.com/anticorrelator/)
 * [@axiomofjoy](https://github.com/axiomofjoy/)
+* [@jsmolic](https://github.com/jsmolic/)
 * [@michaelschiff](https://github.com/michaelschiff/)
 * [@mikeldking](https://github.com/mikeldking/)
 
