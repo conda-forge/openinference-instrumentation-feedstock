@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: openinference-instrumentation
-  version: "0.1.66"
+  version: "0.1.83"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/${{ name[0] }}/${{ name }}/openinference_instrumentation-${{ version }}.tar.gz
-  sha256: e0b01776fd5b1699ce720f6241bd8bc77286c0a7aa7a19f8f13ddd6ffe725c07
+  sha256: b7d63f0ae1aafd49cf03a69231a42d267d80d01d0cabbffcf6906990115d0367
 
 build:
   number: 0
